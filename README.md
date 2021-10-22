@@ -18,6 +18,8 @@ Descubrí mas de mi...
 
 - [LinkedIn](https://www.linkedin.com/in/gaston-scocco/) 🌟
 
+gaston_scocco@hotmail.com
+
 ---
 
 ## Greetings!! 👋
@@ -39,3 +41,5 @@ I decided to walk the path of programming 💻💛
 I discovered more about myself ... 
 
 - [LinkedIn](https://www.linkedin.com/in/gaston-scocco/) 🌟
+
+gaston_scocco@hotmail.com
