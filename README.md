@@ -7,7 +7,7 @@ FullStack Developer gracias a
 [Henry](https://www.soyhenry.com/) 
 donde aprendi => 
 
-        JavaScript, TypeScript, HTML, CSS, Tailwind, React.JS, Next.js, Express, Redux, Node.JS, Azure y contando!! 🔎
+        JavaScript, TypeScript, Tailwind, React.JS, Next.js, Express, Redux, Node.JS, Azure y contando!! 🔎
 
 Me apasiona el munto motor 🚗 , amante de la natación 🏊, y sobre todo de los animales 🐈🐕
 
@@ -31,7 +31,7 @@ FullStack Development by
 [Henry](https://www.soyhenry.com/) 
 where did i learn => 
 
-        JavaScript, TypeScript, HTML, CSS, Tailwind, React.JS, Next.js, Express, Redux, Node.JS, Azure and counting!! 🔎
+        JavaScript, TypeScript, Tailwind, React.JS, Next.js, Express, Redux, Node.JS, Azure and counting!! 🔎
 
 I am passionate about the motor world 🚗, lover of swimming 🏊, and especially of animals 🐈🐕
 
